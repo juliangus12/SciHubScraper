@@ -1,0 +1,23 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": true,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": true,
+    "Flood-risk management": true,
+    "public health": false,
+    "GI_Examples": [
+        "green roofs",
+        "green walls"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "River",
+    "Methodology": [
+        "Case studies",
+        "Qualitative",
+        "Surveys and questionnaires"
+    ],
+    "Challenges and Limitations": "Funding"
+}

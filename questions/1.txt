@@ -1,0 +1,29 @@
+Using information from anywhere in the paper except for the citations and references, please answer the following questions. 
+
+Is the term “blue infrastructure” ever mentioned or discussed? 
+Is the term “blue-green infrastructure” or “blue green infrastructure” ever mentioned or discussed? 
+Is the term “gray infrastructure” or “grey infrastructure” ever mentioned or discussed?
+Is the term “water quality” ever mentioned or discussed?
+Is the term “air quality” ever mentioned or discussed?
+Is the term “biodiversity” ever mentioned or discussed?
+Is the term “stormwater management” ever mentioned or discussed? 
+Is the term “flood-risk management” or “flood risk management” ever mentioned or discussed? 
+Is the term "public health" ever mentioned or discussed?
+According to the paper, what are some examples of green infrastructure? 
+Which of the following categories matches the primary geographic population density of the paper’s content? Choose one of the following: Urban (Areas focusing on city or town-based topics), suburban (areas adjacent to urban centers), rural (areas outside of urban centers and countryside).
+
+Please format this information into the following json and have this be your only response:
+
+{
+    “Blue infrastructure” : (boolean value, no = false, yes = true),
+    “blue-green infrastructure” : (boolean value, no = false, yes = true),
+    “gray infrastructure” : (boolean value, no = false, yes = true),
+    “water quality” : (boolean value, no = false, yes = true),
+    “air quality” : (boolean value, no = false, yes = true),
+    “biodiversity” : (boolean value, no = false, yes = true),
+    “Stormwater management” : (boolean value, no = false, yes = true),
+    “Flood-risk management” : (boolean value, no = false, yes = true),
+    "public health” : (boolean value, no = false, yes = true),
+    "GI_Examples" : [list of examples from the paper, separated as instructed],
+    "Geographic Population Density": "Urban/Suburban/Rural/Other/Not Mentioned",
+

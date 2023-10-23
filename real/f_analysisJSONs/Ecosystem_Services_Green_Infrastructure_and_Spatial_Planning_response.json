@@ -1,0 +1,26 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": true,
+    "Stormwater management": true,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "green spaces",
+        "green roofs",
+        "green walls"
+    ],
+    "Geographic Population Density": "Not Mentioned",
+    "Primary Locale": "Coastal",
+    "Methodology": [
+        "Case studies",
+        "Qualitative",
+        "Quantitative",
+        "Modeling",
+        "Surveys and questionnaires"
+    ],
+    "Challenges and Limitations": "Funding/Policy/Lack of data/Technical challenges/Public awareness/Land availability/Climatic challenges/Biodiversity concerns/Maintenance and longevity/Stakeholder conflicts/Economic concerns"
+}

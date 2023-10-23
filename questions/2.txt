@@ -1,0 +1,13 @@
+Using information from anywhere in the paper except for the citations and references, please answer the following questions. 
+
+From the options below, which one aligns with the primary locale highlighted in the paper's content? River (Areas adjacent to rivers), coastal (areas adjacent to the sea or ocean), lake (areas adjacent to lakes).
+From the options below, which align with the methodology of the paper? Select all that apply. Case studies (investigation of specific subjects), experimental (research with an intervention to observe effects), review (survey of existing literature), qualitative (exploratory research with descriptions and interpretations), quantitative (research using statistical methods), modeling (predictive or analytical models), surveys and questionnaires (data gathering from predefined group), ethnographic (study of cultural phenomena in groups), longitudinal (observations over an extended period), other (for methodologies not specified above).
+From the options below, Which single challenge or limitation is primarily mentioned in the paper? Select one of the following: Funding (financial resources of support topics), policy (regulatory or legislative topics), lack of data (topics related to data insufficiency), technical challenges (topics related to implementation), public awareness (topics on public understanding or acceptance), land availability (topics on finding suitable land), climatic challenges (topics on climate conditions or weather events), biodiversity concerns (topics on impacts on local flora and fauna), maintenance and longevity (topics on long-term sustainability and needs), stakeholder conflicts (topics on disagreements or conflicts among stakeholders), economic concerns (topics on economic impacts or return on investment), other (for challenges and limitations not specified above), not mentioned.
+
+Please format this information into the following json and have this be your only response:
+
+
+    "Primary Locale": "River/Coastal/Lake/Other/Not Mentioned",
+    "Methodology": ["Case studies", "Experimental", ...],
+    "Challenges and Limitations": "Funding/Policy/lack of data/..."
+}

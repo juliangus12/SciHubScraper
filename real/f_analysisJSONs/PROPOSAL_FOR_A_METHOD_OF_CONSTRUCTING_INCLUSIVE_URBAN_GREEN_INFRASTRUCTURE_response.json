@@ -1,0 +1,28 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": true,
+    "biodiversity": false,
+    "Stormwater management": false,
+    "Flood-risk management": false,
+    "public health": true,
+    "GI_Examples": [
+        "open-air gyms",
+        "exercise stations",
+        "running tracks",
+        "bicycle tracks",
+        "Nordic walking tracks",
+        "toilets",
+        "benches",
+        "points of blood pressure and pulse measurement"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "Not Mentioned",
+    "Methodology": [
+        "Modeling",
+        "Other"
+    ],
+    "Challenges and Limitations": "Not Mentioned"
+}

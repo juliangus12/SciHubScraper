@@ -1,0 +1,24 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": true,
+    "Stormwater management": true,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "green area quality",
+        "vegetation visual status",
+        "vandalism",
+        "problems due to human activity",
+        "unforeseen natural effects"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "Green Areas",
+    "Methodology": [
+        "Surveys and questionnaires"
+    ],
+    "Challenges and Limitations": "Technical challenges"
+}

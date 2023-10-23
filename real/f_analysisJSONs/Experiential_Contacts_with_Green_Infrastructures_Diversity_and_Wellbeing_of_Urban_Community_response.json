@@ -1,0 +1,25 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": true,
+    "Stormwater management": false,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "Lake Gardens",
+        "hill sites",
+        "town",
+        "residential neighbourhood",
+        "home gardens"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "Lake",
+    "Methodology": [
+        "Surveys and questionnaires",
+        "Qualitative"
+    ],
+    "Challenges and Limitations": "Not mentioned"
+}

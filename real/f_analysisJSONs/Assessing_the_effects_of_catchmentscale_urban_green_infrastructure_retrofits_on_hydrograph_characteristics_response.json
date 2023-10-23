@@ -1,0 +1,26 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": true,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "bioretention cells",
+        "rain barrels",
+        "rain gardens"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "River",
+    "Methodology": [
+        "Case studies",
+        "Experimental",
+        "Review",
+        "Quantitative",
+        "Modeling"
+    ],
+    "Challenges and Limitations": "Technical challenges"
+}

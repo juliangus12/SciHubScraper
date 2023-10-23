@@ -1,0 +1,33 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": true,
+    "Stormwater management": true,
+    "Flood-risk management": true,
+    "public health": false,
+    "GI_Examples": [
+        "parks",
+        "gardens",
+        "woodland",
+        "water bodies",
+        "linear features",
+        "footpaths",
+        "streams",
+        "rivers",
+        "cycle routes",
+        "roadside verges",
+        "linear woodlands"
+    ],
+    "Geographic Population Density": "Not Mentioned",
+    "Primary Locale": "Lake",
+    "Methodology": [
+        "Case studies",
+        "Qualitative",
+        "Quantitative",
+        "Surveys and questionnaires"
+    ],
+    "Challenges and Limitations": "Stakeholder conflicts"
+}

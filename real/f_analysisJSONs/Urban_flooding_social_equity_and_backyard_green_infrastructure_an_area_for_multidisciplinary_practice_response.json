@@ -1,0 +1,22 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": true,
+    "Flood-risk management": true,
+    "public health": false,
+    "GI_Examples": [
+        "rain barrels",
+        "rain gardens",
+        "permeable pavement"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "River",
+    "Methodology": [
+        "Surveys and questionnaires"
+    ],
+    "Challenges and Limitations": "Funding"
+}

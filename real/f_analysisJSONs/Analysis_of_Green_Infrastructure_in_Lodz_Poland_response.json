@@ -1,0 +1,23 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": false,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": false,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "Green spaces",
+        "Woodland areas",
+        "Agricultural areas"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "Not Mentioned",
+    "Methodology": [
+        "Review",
+        "Quantitative"
+    ],
+    "Challenges and Limitations": "Not mentioned"
+}

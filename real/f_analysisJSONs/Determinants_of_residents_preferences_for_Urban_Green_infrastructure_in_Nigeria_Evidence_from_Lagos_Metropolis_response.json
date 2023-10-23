@@ -1,0 +1,24 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": true,
+    "Flood-risk management": false,
+    "public health": true,
+    "GI_Examples": [
+        "parks",
+        "gardens",
+        "sport fields",
+        "green roofs",
+        "city farms",
+        "floodplains",
+        "green corridors",
+        "tree features",
+        "water features",
+        "others"
+    ],
+    "Geographic Population Density": "Urban"
+}

@@ -1,0 +1,23 @@
+{
+    "Blue infrastructure": false,
+    "blue-green infrastructure": false,
+    "gray infrastructure": false,
+    "water quality": true,
+    "air quality": false,
+    "biodiversity": false,
+    "Stormwater management": true,
+    "Flood-risk management": false,
+    "public health": false,
+    "GI_Examples": [
+        "swales",
+        "bioinfiltration devices",
+        "green roofs",
+        "constructed wetlands"
+    ],
+    "Geographic Population Density": "Urban",
+    "Primary Locale": "River",
+    "Methodology": [
+        "Modeling"
+    ],
+    "Challenges and Limitations": "Funding"
+}
